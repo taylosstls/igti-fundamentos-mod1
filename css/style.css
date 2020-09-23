@@ -1,0 +1,14 @@
+input[type="range"] {
+  width: 100%;
+}
+
+.box-size {
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+.row {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
